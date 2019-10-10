@@ -1,6 +1,6 @@
-# water
+# my-project
 
-> A Vue.js project
+> About eat project
 
 ## Build Setup
 
